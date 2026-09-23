@@ -810,7 +810,7 @@ const ACTION_AUDIENCE = {
 
 const AUDIENCE_PAGES = {
     business: "https://empresaaa.vercel.app/",
-    professional: "index.html" /* ⚠️ reemplazar por la URL real de la página de talento */
+    professional: "https://talento-rose-nine.vercel.app/"
 };
 
 const AUDIENCE_TRANSITION_PARAM = "audienceTransition";
