@@ -3498,6 +3498,8 @@ footer {
 }
 
 
+.page-loaded {
+}
 
 
 .image-error {
@@ -3915,7 +3917,7 @@ body.audience-changing {
 }
 
 
-@media (max-width: 640px) {
+@media (max-width: 1100px) {
 
     .audience-selector {
         display: none;
